@@ -38,13 +38,13 @@ https://public.tableau.com/views/gdplifeexpectationsmartphone2/Dashboard3?:langu
 
 Repository Structure 📂🔗
 
-data/: Contains the Wealth of Nations dataset.
+1.data/: Contains the Wealth of Nations dataset.
 
-excel_analysis/: Includes Excel files showcasing data filtering, transformation, and chart creation.
+2.excel_analysis/: Includes Excel files showcasing data filtering, transformation, and chart creation.
 
-tableau_visualizations/: Features Tableau workbooks with data relationships and the top 20 wealthiest countries dashboards
+3.tableau_visualizations/: Features Tableau workbooks with data relationships and the top 20 wealthiest countries dashboards
 
-
+4.ReadMe file
 
 
 Join me on this journey into economic data, where Excel and Tableau team up to reveal stories hidden in the numbers.
